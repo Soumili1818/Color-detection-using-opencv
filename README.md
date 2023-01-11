@@ -1,7 +1,7 @@
 # Color-detection-using-opencv
 ## Chapter 1
 # Introduction 
-1.1	Introduction
+
 Pixels in an image that match a certain color or range of colors are identified by a color detection algorithm. The identified pixels can then be distinguished from the rest of the image by changing their color.
 The RGB color model is an additive color scheme that uses different combinations of the red, green, and blue fundamental wavelengths of light to create a wide range of colors. Red, Green, and Blue are the three basic primary colors that make up the model's name.
  
